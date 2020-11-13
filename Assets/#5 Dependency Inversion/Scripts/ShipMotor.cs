@@ -38,22 +38,7 @@ namespace DependencyInversion
 
         #endregion
 
-        #region Private methods
-        private void Awake()
-        {
-
-
-        }
-
-        void Start()
-        {
-
-        }
-
-        void Update()
-        {
-
-        }
+        #region Private methods       
 
         #endregion
     }
